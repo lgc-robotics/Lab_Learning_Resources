@@ -23,7 +23,7 @@ https://wiki.ros.org/urdf/Tutorials <br>
 https://github.com/bulletphysics/bullet3 <br>
 https://pybullet.org/Bullet/BulletFull/ <br>
 
-## 模仿学习
+## 模仿学习（林老师自己维护）
 这里介绍一些研究生需要复现的论文 <br>
 1. What Matters in Learning from Offline Human Demonstrations for Robot Manipulation. CoRL. 2021 <br>
 https://github.com/ARISE-Initiative/robomimic <br>
