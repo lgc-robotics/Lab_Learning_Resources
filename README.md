@@ -1,4 +1,5 @@
 # 实验室学习资源
+研究生、本科生学习资源，涵盖书籍、博客、视频、典型案例等资料。
 
 ## 线性代数
 线性代数是深度学习、机器人学的基础，斯坦福大学的线性代学课程，深入浅出，特别推荐： <br>
@@ -23,7 +24,13 @@ https://github.com/bulletphysics/bullet3 <br>
 https://pybullet.org/Bullet/BulletFull/ <br>
 
 ## 模仿学习
-这里介绍一些研究生需要复现的论文
+这里介绍一些研究生需要复现的论文 <br>
 1. What Matters in Learning from Offline Human Demonstrations for Robot Manipulation. CoRL. 2021 <br>
 https://github.com/ARISE-Initiative/robomimic <br>
+
+## 北斗、ubw和视觉导航
+
+## solidwork三维建模
+
+## 单片机、CAN总线、树莓派等
 
