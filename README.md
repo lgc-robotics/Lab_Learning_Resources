@@ -5,8 +5,6 @@
 线性代数是深度学习、机器人学的基础，斯坦福大学的线性代学课程，深入浅出，特别推荐： <br>
 https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html <br>
 
-线性代数是深度学习、机器人学的基础，斯坦福大学的线性代学课程，深入浅出，特别推荐： <br>
-https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html <br>
 
 ## 深度学习与pytorch
 1. 《动手学习深度学习》，讲授了深度学习原理以及它的代码，适合初学者：<br>
@@ -17,7 +15,7 @@ https://uvadlc-notebooks.readthedocs.io/en/latest/index.html <br>
 https://jalammar.github.io/illustrated-transformer/ <br>
 
 ## python
-1.下面网址里有林老师购买的python学习课，可以自行使用，也可以去b站等别的平台寻找适合自己的：<br>
+1.实验室购买的python学习课：<br>
 https://coding.imooc.com/learn/list/440.html  <br>
 账号：17860271369@163.com <br>
 密码：zhongkai204 <br>
