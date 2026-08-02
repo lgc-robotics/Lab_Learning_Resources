@@ -30,7 +30,7 @@ https://wiki.ros.org/urdf/Tutorials <br>
 https://github.com/bulletphysics/bullet3 <br>
 https://pybullet.org/Bullet/BulletFull/ <br>
 
-学习流程：<br>
+### 学习流程：<br>
 1.在b站或者其他渠道找课，购买书籍或者pdf电子书辅助学习 <br>
 2.学完正运动学后完成我们自己机械臂正运动学的推导 <br>
 3.学习示教器的使用，并通过示教器进行验证正解是否正确 <br>
