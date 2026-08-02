@@ -1,4 +1,0 @@
-示教器网址:http://192.168.1.18/#/login
-目标:熟练学握示教器的使用，并通过示教器进行验证正解是否正确
-API网: https://develop.realman-robotics.com/robot/summarize/
-
