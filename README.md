@@ -50,7 +50,7 @@ API网址：https://develop.realman-robotics.com/robot/summarize/ <br>
 有没网址？<br>
 代码：见robot_lesson
 
-第5节. 学习非线性最小二乘问题 <br>
+第5节. 学习非线性最小二乘优化 <br>
 目标：了解非线性最小二乘问题，掌握高斯牛顿法和LM算法 <br>
 PDF：见robot_lesson
 
