@@ -31,6 +31,7 @@ https://github.com/bulletphysics/bullet3 <br>
 https://pybullet.org/Bullet/BulletFull/ <br>
 
 ### 学习流程：<br>
+下述内容，能否整理出对应的代码、书籍、PDF等具体的资料，方便后续研究生快速上手？
 1.在b站或者其他渠道找课，购买书籍或者pdf电子书辅助学习 <br>
 2.学完正运动学后完成我们自己机械臂正运动学的推导 <br>
 3.学习示教器的使用，并通过示教器进行验证正解是否正确 <br>
