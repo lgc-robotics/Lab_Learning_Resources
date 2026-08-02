@@ -21,7 +21,7 @@ https://coding.imooc.com/learn/list/440.html  <br>
 密码：zhongkai204 <br>
 
 ## 机器人学
-1. Petercorke是机器人领域的大咖，维护者一个开源工具箱和文档。该工具箱支持DH/MDH模型、运动学正解、运动学逆解、可视化、避障路径规划等功能：<br>
+1. Petercorke是机器人领域的大咖，维护着一个开源工具箱和文档。该工具箱支持DH/MDH模型、运动学正解、运动学逆解、可视化、避障路径规划等功能：<br>
 https://github.com/petercorke/robotics-toolbox-python <br>
 https://petercorke.github.io/robotics-toolbox-python/ <br>
 2. URDF的权威文档：<br>
