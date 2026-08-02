@@ -13,6 +13,14 @@ https://zh-v2.d2l.ai/index.html  <br>
 https://uvadlc-notebooks.readthedocs.io/en/latest/index.html <br>
 3. Transformer博客：<br>
 https://jalammar.github.io/illustrated-transformer/ <br>
+4. YOLO官网：<br>
+https://docs.ultralytics.com/models<br>
+5. pcl点云库学习：<br>
+https://pcl.readthedocs.io/projects/tutorials/en/master/<br>
+6. 标注软件X-AnyLabeling教程：<br>
+https://blog.csdn.net/qq_42910179/article/details/155908309<br>
+7. 超级全面的深度学习教程与笔记：<br>
+https://github.com/AccumulateMore/CV<br><br>
 
 ## python
 1.实验室购买的python学习课：<br>
