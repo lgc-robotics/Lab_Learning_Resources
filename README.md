@@ -100,8 +100,7 @@ https://github.com/ARISE-Initiative/robomimic <br>
 
 ## 单片机、CAN总线、树莓派等
 1.单片机：<br>
-stm32江协科技 <br>
-https://jiangxiekeji.com/download.html <br>
+stm32江协科技: https://jiangxiekeji.com/download.html <br>
 8051：https://jiangxiekeji.com/download.html  <br>
 
 2.can总线 <br>
