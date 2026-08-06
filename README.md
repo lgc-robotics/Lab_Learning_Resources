@@ -95,12 +95,18 @@ https://github.com/ARISE-Initiative/robomimic <br>
 ## 北斗、ubw和视觉导航
 
 ## solidwork三维建模
- 
 1. https://b23.tv/XzZHnGF  <br>
 2. https://b23.tv/KbFLXtW  <br>
 
 ## 单片机、CAN总线、树莓派等
-1.单片机：stm32江协科技https://jiangxiekeji.com/download.html，8051：https://jiangxiekeji.com/download.html  <br>
-2.can总线：https://jiangxiekeji.com/download.html  <br>
-3.树莓派：billbill创乐博智能科技  <br>
+1.单片机：<br>
+stm32江协科技 <br>
+https://jiangxiekeji.com/download.html <br>
+8051：https://jiangxiekeji.com/download.html  <br>
+
+2.can总线 <br>
+https://jiangxiekeji.com/download.html  <br>
+
+3.树莓派：<br>
+billbill创乐博智能科技  <br>
 
