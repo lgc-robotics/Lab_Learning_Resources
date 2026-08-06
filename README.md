@@ -96,11 +96,11 @@ https://github.com/ARISE-Initiative/robomimic <br>
 
 ## solidwork三维建模
  
-https://b23.tv/XzZHnGF
-https://b23.tv/KbFLXtW
+1. https://b23.tv/XzZHnGF  <br>
+2. https://b23.tv/KbFLXtW  <br>
 
 ## 单片机、CAN总线、树莓派等
-1.单片机：stm32江协科技https://jiangxiekeji.com/download.html，8051：https://jiangxiekeji.com/download.html
-2.can总线：https://jiangxiekeji.com/download.html
-3.树莓派：billbill创乐博智能科技
+1.单片机：stm32江协科技https://jiangxiekeji.com/download.html，8051：https://jiangxiekeji.com/download.html  <br>
+2.can总线：https://jiangxiekeji.com/download.html  <br>
+3.树莓派：billbill创乐博智能科技  <br>
 
