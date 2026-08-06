@@ -95,8 +95,8 @@ https://github.com/ARISE-Initiative/robomimic <br>
 ## 北斗、ubw和视觉导航
 
 ## solidwork三维建模
-1. https://b23.tv/XzZHnGF  <br>
-2. https://b23.tv/KbFLXtW  <br>
+1. SolidWorks三天速成教程 https://b23.tv/XzZHnGF  <br>
+2. SolidWorks三天速成教程 https://b23.tv/KbFLXtW  <br>
 
 ## 单片机、CAN总线、树莓派等
 1.单片机：<br>
