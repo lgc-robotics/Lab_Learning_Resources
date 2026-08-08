@@ -26,7 +26,12 @@ https://github.com/AccumulateMore/CV<br><br>
 1.实验室购买的python学习课：<br>
 https://coding.imooc.com/learn/list/440.html  <br>
 账号：17860271369@163.com <br>
-密码：zhongkai204 <br>
+密码：zk123456 <br>
+
+2.实验室购买的python学习课：<br>
+https://www.imooc.com/u/index/allcourses  <br>
+账号：18200892902 <br>
+密码：204GDANDIU <br>
 
 ## 机器人学
 1. 蔡自兴，《机器人学》，第四版 <br>
