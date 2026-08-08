@@ -28,7 +28,7 @@ https://coding.imooc.com/learn/list/440.html  <br>
 账号：17860271369@163.com <br>
 密码：zk123456 <br>
 
-2.实验室购买的python学习课：<br>
+2.Python3.8系统入门+进阶：<br>
 https://www.imooc.com/u/index/allcourses  <br>
 账号：18200892902 <br>
 密码：204GDANDIU <br>
