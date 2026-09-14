@@ -96,6 +96,8 @@ PDF：见robot_lesson
 这里介绍一些研究生需要复现的论文 <br>
 1. What Matters in Learning from Offline Human Demonstrations for Robot Manipulation. CoRL. 2021 <br>
 https://github.com/ARISE-Initiative/robomimic <br>
+2. Behavior Transformers: Cloning k modes with one stone  <br>
+官方推荐的、很简洁的代码： https://github.com/notmahi/miniBET  <br>
 
 ## 北斗、ubw和视觉导航
 
